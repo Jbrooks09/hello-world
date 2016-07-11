@@ -1,1 +1,1 @@
-# hello-world
+I am a semi-experienced programmer. I had been programmed for a few years before some personal issues arose. Now I am back trying to learn what I love and further my knowledge and improving myself to make apps and programs to improve peoples lives.
